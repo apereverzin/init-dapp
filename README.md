@@ -1,1 +1,7 @@
-# smart-dapp
+# init-dapp
+
+`cd client`
+
+`npm install`
+
+`npm start`
